@@ -14,10 +14,9 @@
 ```javascript    
     {
       "nicheng":"mynicheng",
-      "icode":"XQQQ",      
-      "ficode":"XXXX:DDDD:WWWW",
-      "createts":111111111, 
-      "unionid":"asdfasdfasdfasdfcxasdf"
+      "icode":"XQQQ",      //invite code
+      "createts":111111111,  //create timestamp
+      "unionid":"asdfasdfasdfasdfcxasdf"  //unique userid
     }
 ```
 
