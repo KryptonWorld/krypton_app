@@ -2,7 +2,7 @@
 
 
 ##How to integrate to KryptonWorld
-* You should know abount keth blockchain first ,it is 100% compatible with Etherem
+* You should know about [keth blockchain](https://github.com/KryptonWorld/keth_block_chain) first ,it is 100% compatible with Ethereum, provider is  http://keth.firewinggames.com:7545 
 * The KryptonWorld app contains a dpp browser ,is is 100% compatible with Metamask, so your dapp can still use web3
 * KryptonWorld app will add a token param after for your dppp url, you can use this token to get more info abount players.
 * You must download KryptonWorld app [KryptonWorld](http://d.kxq.one/) or search KryptonWorld in GooglePlay
